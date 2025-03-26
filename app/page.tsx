@@ -20,7 +20,7 @@ export default function Home() {
                     <Lock className="h-3 w-3 mr-1" /> Secure • Ethical • Professional
                   </div>
                   <h1 className="text-3xl font-bold tracking-tighter sm:text-5xl xl:text-6xl/none text-gradient">
-                    Elite Penetration Tester
+                    Jr Penetration Tester
                   </h1>
                   <p className="max-w-[600px] text-muted-foreground md:text-xl">
                     Securing digital landscapes through ethical hacking and advanced security solutions
@@ -46,7 +46,7 @@ export default function Home() {
                   <div className="absolute inset-0 bg-gradient-to-r from-primary/20 to-primary/10"></div>
                   <div className="absolute inset-0 cyber-lines"></div>
                   <Image
-                    src="/placeholder.svg?height=400&width=400"
+                    src="/photo.jpg?height=460&width=460"
                     alt="Profile"
                     fill
                     className="object-cover z-10 rounded-full p-1"
@@ -88,10 +88,10 @@ export default function Home() {
                     actors can exploit them.
                   </p>
                   <Button variant="link" className="mt-4 p-0 group justify-start" asChild>
-                    <Link href="/services" className="flex items-center">
+{/*                     <Link href="/services" className="flex items-center">
                       Learn More
                       <ArrowRight className="ml-2 h-4 w-4 transition-transform group-hover:translate-x-1" />
-                    </Link>
+                    </Link> */}
                   </Button>
                 </CardContent>
               </Card>
@@ -107,10 +107,10 @@ export default function Home() {
                     practices.
                   </p>
                   <Button variant="link" className="mt-4 p-0 group justify-start" asChild>
-                    <Link href="/services" className="flex items-center">
+{/*                     <Link href="/services" className="flex items-center">
                       Learn More
                       <ArrowRight className="ml-2 h-4 w-4 transition-transform group-hover:translate-x-1" />
-                    </Link>
+                    </Link> */}
                   </Button>
                 </CardContent>
               </Card>
@@ -126,10 +126,10 @@ export default function Home() {
                     AWS, Azure, or GCP.
                   </p>
                   <Button variant="link" className="mt-4 p-0 group justify-start" asChild>
-                    <Link href="/services" className="flex items-center">
+{/*                     <Link href="/services" className="flex items-center">
                       Learn More
                       <ArrowRight className="ml-2 h-4 w-4 transition-transform group-hover:translate-x-1" />
-                    </Link>
+                    </Link> */}
                   </Button>
                 </CardContent>
               </Card>
@@ -160,17 +160,17 @@ export default function Home() {
                 <div className="relative h-48 w-full overflow-hidden">
                   <Image
                     src="/placeholder.svg?height=200&width=400"
-                    alt="Vulnerability Scanner"
+                    alt="Keylogger Idetentification"
                     fill
                     className="object-cover transition-transform group-hover:scale-105"
                   />
                   <div className="absolute inset-0 bg-gradient-to-t from-background to-transparent"></div>
                 </div>
                 <CardContent className="relative p-6">
-                  <h3 className="text-xl font-bold mb-2">Advanced Vulnerability Scanner</h3>
+                  <h3 className="text-xl font-bold mb-2">Keylogger Identification & Prevention</h3>
                   <p className="text-sm text-muted-foreground mb-4">
-                    Developed a custom vulnerability scanner that automates the detection of security flaws in web
-                    applications and network infrastructure.
+                    Developed a web-based Keylogger Identification & Prevention, which pratically demonstrates how attackers use keylogger techniques to capture the 
+                    Key strokes.
                   </p>
                   <div className="flex justify-between items-center">
                     <div className="flex flex-wrap gap-1">
@@ -202,10 +202,9 @@ export default function Home() {
                   <div className="absolute inset-0 bg-gradient-to-t from-background to-transparent"></div>
                 </div>
                 <CardContent className="relative p-6">
-                  <h3 className="text-xl font-bold mb-2">Real-time Security Dashboard</h3>
+                  <h3 className="text-xl font-bold mb-2">Network Monitoring System</h3>
                   <p className="text-sm text-muted-foreground mb-4">
-                    Created a comprehensive security dashboard that provides real-time visibility into security events
-                    and potential threats.
+                    Designed a comprehensive Network Monitoring dashboard that provides real-time visibility of how actual Networking tools works.
                   </p>
                   <div className="flex justify-between items-center">
                     <div className="flex flex-wrap gap-1">
@@ -237,10 +236,10 @@ export default function Home() {
                   <div className="absolute inset-0 bg-gradient-to-t from-background to-transparent"></div>
                 </div>
                 <CardContent className="relative p-6">
-                  <h3 className="text-xl font-bold mb-2">Advanced Phishing Simulator</h3>
+                  <h3 className="text-xl font-bold mb-2">Investigation of a Data Breach</h3>
                   <p className="text-sm text-muted-foreground mb-4">
-                    Built a sophisticated phishing simulation platform to help organizations train employees to
-                    recognize and avoid social engineering attacks.
+                    Building a sophisticated Data Breach System which is used to monitor Data Breaches in the organization also it will have live data 
+                    of past Breaches happened in the world.
                   </p>
                   <div className="flex justify-between items-center">
                     <div className="flex flex-wrap gap-1">
@@ -301,28 +300,28 @@ export default function Home() {
                   <div className="space-y-2">
                     <div className="flex items-center justify-between">
                       <span className="text-sm">Web Application Testing</span>
-                      <span className="text-sm text-muted-foreground">Expert</span>
+                      <span className="text-sm text-muted-foreground">Intermediate</span>
                     </div>
                     <div className="h-2 w-full overflow-hidden rounded-full bg-primary/20">
-                      <div className="h-full w-[95%] rounded-full bg-gradient-to-r from-primary to-primary"></div>
+                      <div className="h-full w-[40%] rounded-full bg-gradient-to-r from-primary to-primary"></div>
                     </div>
                   </div>
                   <div className="space-y-2">
                     <div className="flex items-center justify-between">
                       <span className="text-sm">Network Penetration</span>
-                      <span className="text-sm text-muted-foreground">Expert</span>
+                      <span className="text-sm text-muted-foreground">Beginner</span>
                     </div>
                     <div className="h-2 w-full overflow-hidden rounded-full bg-primary/20">
-                      <div className="h-full w-[90%] rounded-full bg-gradient-to-r from-primary to-primary"></div>
+                      <div className="h-full w-[12%] rounded-full bg-gradient-to-r from-primary to-primary"></div>
                     </div>
                   </div>
                   <div className="space-y-2">
                     <div className="flex items-center justify-between">
                       <span className="text-sm">Mobile Application Security</span>
-                      <span className="text-sm text-muted-foreground">Advanced</span>
+                      <span className="text-sm text-muted-foreground">Beginner</span>
                     </div>
                     <div className="h-2 w-full overflow-hidden rounded-full bg-primary/20">
-                      <div className="h-full w-[85%] rounded-full bg-gradient-to-r from-primary to-primary"></div>
+                      <div className="h-full w-[18%] rounded-full bg-gradient-to-r from-primary to-primary"></div>
                     </div>
                   </div>
                 </div>
@@ -337,28 +336,28 @@ export default function Home() {
                   <div className="space-y-2">
                     <div className="flex items-center justify-between">
                       <span className="text-sm">Secure Coding Practices</span>
-                      <span className="text-sm text-muted-foreground">Expert</span>
+                      <span className="text-sm text-muted-foreground">Intermediate</span>
                     </div>
                     <div className="h-2 w-full overflow-hidden rounded-full bg-primary/20">
-                      <div className="h-full w-[95%] rounded-full bg-gradient-to-r from-primary to-primary"></div>
+                      <div className="h-full w-[40%] rounded-full bg-gradient-to-r from-primary to-primary"></div>
                     </div>
                   </div>
                   <div className="space-y-2">
                     <div className="flex items-center justify-between">
                       <span className="text-sm">Security Tool Development</span>
-                      <span className="text-sm text-muted-foreground">Expert</span>
+                      <span className="text-sm text-muted-foreground">Beginner</span>
                     </div>
                     <div className="h-2 w-full overflow-hidden rounded-full bg-primary/20">
-                      <div className="h-full w-[90%] rounded-full bg-gradient-to-r from-primary to-primary"></div>
+                      <div className="h-full w-[12%] rounded-full bg-gradient-to-r from-primary to-primary"></div>
                     </div>
                   </div>
                   <div className="space-y-2">
                     <div className="flex items-center justify-between">
                       <span className="text-sm">DevSecOps Integration</span>
-                      <span className="text-sm text-muted-foreground">Advanced</span>
+                      <span className="text-sm text-muted-foreground">Beginner</span>
                     </div>
                     <div className="h-2 w-full overflow-hidden rounded-full bg-primary/20">
-                      <div className="h-full w-[80%] rounded-full bg-gradient-to-r from-primary to-primary"></div>
+                      <div className="h-full w-[6%] rounded-full bg-gradient-to-r from-primary to-primary"></div>
                     </div>
                   </div>
                 </div>
@@ -373,28 +372,28 @@ export default function Home() {
                   <div className="space-y-2">
                     <div className="flex items-center justify-between">
                       <span className="text-sm">Cloud Security</span>
-                      <span className="text-sm text-muted-foreground">Expert</span>
+                      <span className="text-sm text-muted-foreground">Beginner</span>
                     </div>
                     <div className="h-2 w-full overflow-hidden rounded-full bg-primary/20">
-                      <div className="h-full w-[90%] rounded-full bg-gradient-to-r from-primary to-primary"></div>
+                      <div className="h-full w-[6%] rounded-full bg-gradient-to-r from-primary to-primary"></div>
                     </div>
                   </div>
                   <div className="space-y-2">
                     <div className="flex items-center justify-between">
                       <span className="text-sm">IoT Security</span>
-                      <span className="text-sm text-muted-foreground">Advanced</span>
+                      <span className="text-sm text-muted-foreground">Beginner</span>
                     </div>
                     <div className="h-2 w-full overflow-hidden rounded-full bg-primary/20">
-                      <div className="h-full w-[85%] rounded-full bg-gradient-to-r from-primary to-primary"></div>
+                      <div className="h-full w-[6%] rounded-full bg-gradient-to-r from-primary to-primary"></div>
                     </div>
                   </div>
                   <div className="space-y-2">
                     <div className="flex items-center justify-between">
                       <span className="text-sm">Blockchain Security</span>
-                      <span className="text-sm text-muted-foreground">Advanced</span>
+                      <span className="text-sm text-muted-foreground">Bedinner</span>
                     </div>
                     <div className="h-2 w-full overflow-hidden rounded-full bg-primary/20">
-                      <div className="h-full w-[80%] rounded-full bg-gradient-to-r from-primary to-primary"></div>
+                      <div className="h-full w-[8%] rounded-full bg-gradient-to-r from-primary to-primary"></div>
                     </div>
                   </div>
                 </div>
