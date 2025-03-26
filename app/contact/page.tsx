@@ -92,7 +92,7 @@ export default function ContactPage() {
                       </div>
                       <div className="grid gap-1">
                         <h3 className="text-sm font-medium">Direct Line</h3>
-                        <p className="text-sm text-muted-foreground">+1 (555) 123-4567</p>
+                        <p className="text-sm text-muted-foreground">+91 9363202115</p>
                       </div>
                     </div>
                     <div className="flex items-center gap-4 group">
@@ -101,7 +101,7 @@ export default function ContactPage() {
                       </div>
                       <div className="grid gap-1">
                         <h3 className="text-sm font-medium">Encrypted Email</h3>
-                        <p className="text-sm text-muted-foreground">contact@example.com</p>
+                        <p className="text-sm text-muted-foreground">techy5788@gmail.com</p>
                       </div>
                     </div>
                     <div className="flex items-center gap-4 group">
@@ -110,7 +110,7 @@ export default function ContactPage() {
                       </div>
                       <div className="grid gap-1">
                         <h3 className="text-sm font-medium">Professional Network</h3>
-                        <p className="text-sm text-muted-foreground">linkedin.com/in/username</p>
+                        <p className="text-sm text-muted-foreground">www.linkedin.com/in/guruchandhran-m-b7b140343</p>
                       </div>
                     </div>
                     <div className="flex items-center gap-4 group">
@@ -119,7 +119,7 @@ export default function ContactPage() {
                       </div>
                       <div className="grid gap-1">
                         <h3 className="text-sm font-medium">Code Repository</h3>
-                        <p className="text-sm text-muted-foreground">github.com/username</p>
+                        <p className="text-sm text-muted-foreground">github.com/</p>
                       </div>
                     </div>
                     <div className="flex items-center gap-4 group">
@@ -128,7 +128,7 @@ export default function ContactPage() {
                       </div>
                       <div className="grid gap-1">
                         <h3 className="text-sm font-medium">Operational Base</h3>
-                        <p className="text-sm text-muted-foreground">San Francisco, CA</p>
+                        <p className="text-sm text-muted-foreground">Undisclosed</p>
                       </div>
                     </div>
                   </CardContent>
