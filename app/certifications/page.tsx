@@ -56,14 +56,13 @@ export default function CertificationsPage() {
                   </div>
                 </div>
                 <div className="p-6 relative">
-                  <h3 className="text-xl font-bold mb-2">Certified Ethical Hacker (CEH)</h3>
-                  <p className="text-sm text-muted-foreground mb-4">EC-Council</p>
+                  <h3 className="text-xl font-bold mb-2">Cyber Security & Privacy</h3>
+                  <p className="text-sm text-muted-foreground mb-4">NPTEL</p>
                   <p className="text-sm">
-                    Demonstrates proficiency in identifying vulnerabilities and weaknesses in target systems using the
-                    same knowledge and tools as malicious hackers.
+                    Enrolled Cyber Security & Privacy course in NPTEL, clearly describing the different Government laws such as HIPPA, GDPR, etc.
                   </p>
                   <div className="mt-4 flex justify-between items-center">
-                    <span className="text-xs text-muted-foreground">Issued: Jan 2022</span>
+                    <span className="text-xs text-muted-foreground">Issued: Nov 2024</span>
                     <Button variant="ghost" size="sm" className="group" asChild>
                       <Link href="#">
                         View Certificate
@@ -89,14 +88,14 @@ export default function CertificationsPage() {
                   </div>
                 </div>
                 <div className="p-6 relative">
-                  <h3 className="text-xl font-bold mb-2">Offensive Security Certified Professional (OSCP)</h3>
-                  <p className="text-sm text-muted-foreground mb-4">Offensive Security</p>
+                  <h3 className="text-xl font-bold mb-2">Computer Hacking Forensics</h3>
+                  <p className="text-sm text-muted-foreground mb-4">Cybrary</p>
                   <p className="text-sm">
-                    Hands-on penetration testing certification that proves practical skills in exploiting
-                    vulnerabilities and conducting security assessments.
+                   Focuses on digital forensics and investigating hacking incidents. 
+                    It teaches techniques to gather evidence, trace intrusions, and uncover the techniques used by hackers.
                   </p>
                   <div className="mt-4 flex justify-between items-center">
-                    <span className="text-xs text-muted-foreground">Issued: Mar 2021</span>
+                    <span className="text-xs text-muted-foreground">Issued: June 2024</span>
                     <Button variant="ghost" size="sm" className="group" asChild>
                       <Link href="#">
                         View Certificate
@@ -123,11 +122,11 @@ export default function CertificationsPage() {
                 </div>
                 <div className="p-6 relative">
                   <h3 className="text-xl font-bold mb-2">
-                    Certified Information Systems Security Professional (CISSP)
+                    36 Hours Hackathon Certificate
                   </h3>
-                  <p className="text-sm text-muted-foreground mb-4">(ISC)²</p>
+                  <p className="text-sm text-muted-foreground mb-4">MKCE</p>
                   <p className="text-sm">
-                    Advanced certification that demonstrates expertise across various domains of information security.
+                    This Hackathon gained an experience about how Industry expects and I gained a community network with the members from various domains. 
                   </p>
                   <div className="mt-4 flex justify-between items-center">
                     <span className="text-xs text-muted-foreground">Issued: Sep 2020</span>
@@ -156,11 +155,10 @@ export default function CertificationsPage() {
                   </div>
                 </div>
                 <div className="p-6 relative">
-                  <h3 className="text-xl font-bold mb-2">CompTIA Security+</h3>
-                  <p className="text-sm text-muted-foreground mb-4">CompTIA</p>
+                  <h3 className="text-xl font-bold mb-2">Geo-Data Sharing and Cyber Security</h3>
+                  <p className="text-sm text-muted-foreground mb-4">ISRO</p>
                   <p className="text-sm">
-                    Validates the baseline skills necessary to perform core security functions and pursue an IT security
-                    career.
+                    This 2 weeks bootcamp teaches how Indian Government is securing the databases from cyber threads by making ai gapped systems and maintaining authentication levels.
                   </p>
                   <div className="mt-4 flex justify-between items-center">
                     <span className="text-xs text-muted-foreground">Issued: Jun 2019</span>
@@ -189,13 +187,13 @@ export default function CertificationsPage() {
                   </div>
                 </div>
                 <div className="p-6 relative">
-                  <h3 className="text-xl font-bold mb-2">Certified Information Security Manager (CISM)</h3>
-                  <p className="text-sm text-muted-foreground mb-4">ISACA</p>
+                  <h3 className="text-xl font-bold mb-2">SQL Injection</h3>
+                  <p className="text-sm text-muted-foreground mb-4">EC Council</p>
                   <p className="text-sm">
-                    Demonstrates expertise in information security governance, program development, and management.
+                    Gained hands-on experience in SQL Injection by lively injecting queries in the demo sites without affecting the sensitive data in the database.
                   </p>
                   <div className="mt-4 flex justify-between items-center">
-                    <span className="text-xs text-muted-foreground">Issued: Nov 2020</span>
+                    <span className="text-xs text-muted-foreground">Issued: July 2024</span>
                     <Button variant="ghost" size="sm" className="group" asChild>
                       <Link href="#">
                         View Certificate
@@ -221,10 +219,10 @@ export default function CertificationsPage() {
                   </div>
                 </div>
                 <div className="p-6 relative">
-                  <h3 className="text-xl font-bold mb-2">GIAC Web Application Penetration Tester (GWAPT)</h3>
+                  <h3 className="text-xl font-bold mb-2">CompTIA Security+ (In Progress)</h3>
                   <p className="text-sm text-muted-foreground mb-4">GIAC</p>
                   <p className="text-sm">
-                    Specialized certification focused on web application security testing and vulnerability assessment.
+                    Ongoing the course.
                   </p>
                   <div className="mt-4 flex justify-between items-center">
                     <span className="text-xs text-muted-foreground">Issued: Feb 2021</span>
