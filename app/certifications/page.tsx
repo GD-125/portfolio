@@ -274,8 +274,8 @@ export default function CertificationsPage() {
                   </svg>
                 </div>
                 <div>
-                  <h3 className="text-lg font-bold">Advanced Web Application Security</h3>
-                  <p className="text-sm text-muted-foreground">SANS Institute</p>
+                  <h3 className="text-lg font-bold">Web Application Security</h3>
+                  <p className="text-sm text-muted-foreground">Ethical Hacking Institute</p>
                   <p className="mt-2 text-sm">
                     Comprehensive training on identifying and exploiting web application vulnerabilities, including
                     OWASP Top 10 risks.
@@ -304,13 +304,13 @@ export default function CertificationsPage() {
                   </svg>
                 </div>
                 <div>
-                  <h3 className="text-lg font-bold">Cloud Security Architecture</h3>
-                  <p className="text-sm text-muted-foreground">Cloud Security Alliance</p>
+                  <h3 className="text-lg font-bold">Network Security</h3>
+                  <p className="text-sm text-muted-foreground">CISCO</p>
                   <p className="mt-2 text-sm">
-                    Specialized training on designing and implementing secure cloud architectures across major cloud
-                    providers.
+                    Specialized training on designing and implementing secure network infrastructures across varoius
+                    organizations.
                   </p>
-                  <p className="mt-2 text-xs text-muted-foreground">Completed: March 2022</p>
+                  <p className="mt-2 text-xs text-muted-foreground">Completed: March 2023</p>
                 </div>
               </div>
 
@@ -333,13 +333,13 @@ export default function CertificationsPage() {
                   </svg>
                 </div>
                 <div>
-                  <h3 className="text-lg font-bold">Incident Response & Digital Forensics</h3>
-                  <p className="text-sm text-muted-foreground">SANS Institute</p>
+                  <h3 className="text-lg font-bold">Digital Forensics</h3>
+                  <p className="text-sm text-muted-foreground">Cybrary</p>
                   <p className="mt-2 text-sm">
-                    Advanced training on responding to security incidents and conducting digital forensics
+                    Training on responding to security incidents and conducting digital forensics
                     investigations.
                   </p>
-                  <p className="mt-2 text-xs text-muted-foreground">Completed: November 2021</p>
+                  <p className="mt-2 text-xs text-muted-foreground">Completed: July 2024</p>
                 </div>
               </div>
 
@@ -368,10 +368,10 @@ export default function CertificationsPage() {
                   </svg>
                 </div>
                 <div>
-                  <h3 className="text-lg font-bold">Secure DevOps Practices</h3>
-                  <p className="text-sm text-muted-foreground">DevSecOps Foundation</p>
+                  <h3 className="text-lg font-bold"> Defensive Security Operations</h3>
+                  <p className="text-sm text-muted-foreground">Cybrary</p>
                   <p className="mt-2 text-sm">
-                    Training on integrating security into DevOps workflows and implementing secure CI/CD pipelines.
+                    Training on integrating security into effective Security Operations. 
                   </p>
                   <p className="mt-2 text-xs text-muted-foreground">Completed: January 2022</p>
                 </div>
