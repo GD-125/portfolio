@@ -243,7 +243,7 @@ export default function AboutPage() {
                       <span className="text-sm text-muted-foreground">Beginner</span>
                     </div>
                     <div className="skill-bar">
-                      <div className="skill-progress" style={{ width: "36%" }}></div>
+                      <div className="skill-progress" style={{ width: "21%" }}></div>
                     </div>
                   </div>
 
@@ -253,7 +253,7 @@ export default function AboutPage() {
                       <span className="text-sm text-muted-foreground">Beginner</span>
                     </div>
                     <div className="skill-bar">
-                      <div className="skill-progress" style={{ width: "38%" }}></div>
+                      <div className="skill-progress" style={{ width: "30%" }}></div>
                     </div>
                   </div>
 
@@ -263,7 +263,7 @@ export default function AboutPage() {
                       <span className="text-sm text-muted-foreground">Intermediate</span>
                     </div>
                     <div className="skill-bar">
-                      <div className="skill-progress" style={{ width: "60%" }}></div>
+                      <div className="skill-progress" style={{ width: "40%" }}></div>
                     </div>
                   </div>
 
@@ -273,7 +273,7 @@ export default function AboutPage() {
                       <span className="text-sm text-muted-foreground">Intermediate</span>
                     </div>
                     <div className="skill-bar">
-                      <div className="skill-progress" style={{ width: "85%" }}></div>
+                      <div className="skill-progress" style={{ width: "60%" }}></div>
                     </div>
                   </div>
 
@@ -283,7 +283,7 @@ export default function AboutPage() {
                       <span className="text-sm text-muted-foreground">Intermediate</span>
                     </div>
                     <div className="skill-bar">
-                      <div className="skill-progress" style={{ width: "50%" }}></div>
+                      <div className="skill-progress" style={{ width: "46%" }}></div>
                     </div>
                   </div>
 
@@ -293,7 +293,7 @@ export default function AboutPage() {
                       <span className="text-sm text-muted-foreground">Beginner</span>
                     </div>
                     <div className="skill-bar">
-                      <div className="skill-progress" style={{ width: "36%" }}></div>
+                      <div className="skill-progress" style={{ width: "18%" }}></div>
                     </div>
                   </div>
                 </div>
