@@ -14,7 +14,7 @@ export function SiteFooter() {
           <span className="font-bold text-primary cyber-glow">DEV QUEENS</span>
         </p>
         <div className="flex gap-4">
-          <Link href="/contact" className="text-muted-foreground hover:text-primary transition-colors">
+          <Link href="www.linkedin.com/in/guruchandhran-m-b7b140343" className="text-muted-foreground hover:text-primary transition-colors">
             <Linkedin className="h-5 w-5" />
             <span className="sr-only">LinkedIn</span>
           </Link>
@@ -27,11 +27,11 @@ export function SiteFooter() {
             <Globe className="h-5 w-5" />
             <span className="sr-only">Website</span>
           </Link>
-          <Link href="/contact" className="text-muted-foreground hover:text-primary transition-colors">
+          <Link href="techy5788@gmail.com" className="text-muted-foreground hover:text-primary transition-colors">
             <Mail className="h-5 w-5" />
             <span className="sr-only">Email</span>
           </Link>
-          <Link href="/contact" className="text-muted-foreground hover:text-primary transition-colors">
+          <Link href="9363202115" className="text-muted-foreground hover:text-primary transition-colors">
             <Phone className="h-5 w-5" />
             <span className="sr-only">Phone</span>
           </Link>
