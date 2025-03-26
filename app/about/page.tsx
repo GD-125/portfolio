@@ -25,7 +25,7 @@ export default function AboutPage() {
                   <div className="absolute inset-0 bg-gradient-to-r from-primary/20 to-primary/10"></div>
                   <div className="absolute inset-0 cyber-lines"></div>
                   <Image
-                    src="/placeholder.svg?height=400&width=400"
+                    src="/photo.jpg?height=400&width=400"
                     alt="Profile"
                     fill
                     className="object-cover z-10 rounded-full p-1"
@@ -154,12 +154,12 @@ export default function AboutPage() {
                 <div className="timeline-content">
                   <div className="flex items-center gap-2 mb-2">
                     <Award className="h-5 w-5 text-primary" />
-                    <h3 className="text-xl font-bold">Lead Security Consultant</h3>
+                    <h3 className="text-xl font-bold">Jr Penetration Tester</h3>
                   </div>
-                  <p className="text-sm text-muted-foreground mb-1">CyberDefense Inc. | 2020 - Present</p>
+                  <p className="text-sm text-muted-foreground mb-1">Freelancing | Present</p>
                   <p>
-                    Leading a team of security professionals to conduct comprehensive security assessments, penetration
-                    tests, and security architecture reviews for enterprise clients.
+                    Conducting comprehensive security assessments, penetration
+                    tests, and security architecture reviews for local organizations.
                   </p>
                 </div>
               </div>
@@ -169,12 +169,12 @@ export default function AboutPage() {
                 <div className="timeline-content">
                   <div className="flex items-center gap-2 mb-2">
                     <Shield className="h-5 w-5 text-primary" />
-                    <h3 className="text-xl font-bold">Senior Penetration Tester</h3>
+                    <h3 className="text-xl font-bold">Cyber Security Intern</h3>
                   </div>
-                  <p className="text-sm text-muted-foreground mb-1">SecureTech Solutions | 2017 - 2020</p>
+                  <p className="text-sm text-muted-foreground mb-1">Navodita Infotech | 2024 - 2025</p>
                   <p>
-                    Conducted advanced penetration tests on web applications, networks, and cloud infrastructure for
-                    Fortune 500 companies and government agencies.
+                    Developed a web-based Network Monitoring System application which helps students or individuals to understand how the actual NETWORK MONITORING
+                    SYSTEMS(NMAP, Wireshark) works. 
                   </p>
                 </div>
               </div>
@@ -184,12 +184,11 @@ export default function AboutPage() {
                 <div className="timeline-content">
                   <div className="flex items-center gap-2 mb-2">
                     <Code className="h-5 w-5 text-primary" />
-                    <h3 className="text-xl font-bold">Security Engineer</h3>
+                    <h3 className="text-xl font-bold">Software Developer</h3>
                   </div>
-                  <p className="text-sm text-muted-foreground mb-1">Global Defense Systems | 2015 - 2017</p>
+                  <p className="text-sm text-muted-foreground mb-1">Freelancing | Present</p>
                   <p>
-                    Designed and implemented secure network architectures, conducted vulnerability assessments, and
-                    developed security policies for critical infrastructure.
+                    Designed and implemented Student Attendance Management System for our College, which reduces teh manual workload on class attendances.
                   </p>
                 </div>
               </div>
@@ -218,18 +217,17 @@ export default function AboutPage() {
                 <h3 className="text-2xl font-bold mb-6">Education</h3>
                 <div className="space-y-6">
                   <div className="education-card">
-                    <h4 className="text-xl font-bold">Master of Science in Cybersecurity</h4>
-                    <p className="text-sm text-muted-foreground mt-1">Stanford University | 2013 - 2015</p>
+                    <h4 className="text-xl font-bold">B.TECH in Information Technology</h4>
+                    <p className="text-sm text-muted-foreground mt-1">P.A.College of Engineering and Technology, Pollachi | 2022 - 2026</p>
                     <p className="mt-2">
-                      Specialized in advanced penetration testing, secure software development, and network security.
+                      Focused on computer networks, algorithms, and information security fundamentals.
                     </p>
                   </div>
 
                   <div className="education-card">
-                    <h4 className="text-xl font-bold">Bachelor of Science in Computer Science</h4>
-                    <p className="text-sm text-muted-foreground mt-1">MIT | 2009 - 2013</p>
+                    <h4 className="text-xl font-bold">HSC-12th Grade in Computer Science</h4>
+                    <p className="text-sm text-muted-foreground mt-1">Govt. Boys Hr. Sec. School, Udumalpet | 2020 - 2022</p>
                     <p className="mt-2">
-                      Focused on computer networks, algorithms, and information security fundamentals.
                     </p>
                   </div>
                 </div>
@@ -242,37 +240,37 @@ export default function AboutPage() {
                   <div>
                     <div className="flex items-center justify-between mb-2">
                       <span className="font-medium">Penetration Testing</span>
-                      <span className="text-sm text-muted-foreground">Expert</span>
+                      <span className="text-sm text-muted-foreground">Beginner</span>
                     </div>
                     <div className="skill-bar">
-                      <div className="skill-progress" style={{ width: "95%" }}></div>
+                      <div className="skill-progress" style={{ width: "36%" }}></div>
                     </div>
                   </div>
 
                   <div>
                     <div className="flex items-center justify-between mb-2">
                       <span className="font-medium">Network Security</span>
-                      <span className="text-sm text-muted-foreground">Expert</span>
+                      <span className="text-sm text-muted-foreground">Beginner</span>
                     </div>
                     <div className="skill-bar">
-                      <div className="skill-progress" style={{ width: "90%" }}></div>
+                      <div className="skill-progress" style={{ width: "38%" }}></div>
                     </div>
                   </div>
 
                   <div>
                     <div className="flex items-center justify-between mb-2">
                       <span className="font-medium">Web Application Security</span>
-                      <span className="text-sm text-muted-foreground">Expert</span>
+                      <span className="text-sm text-muted-foreground">Intermediate</span>
                     </div>
                     <div className="skill-bar">
-                      <div className="skill-progress" style={{ width: "95%" }}></div>
+                      <div className="skill-progress" style={{ width: "60%" }}></div>
                     </div>
                   </div>
 
                   <div>
                     <div className="flex items-center justify-between mb-2">
-                      <span className="font-medium">Cloud Security</span>
-                      <span className="text-sm text-muted-foreground">Advanced</span>
+                      <span className="font-medium">Software Devlopment</span>
+                      <span className="text-sm text-muted-foreground">Intermediate</span>
                     </div>
                     <div className="skill-bar">
                       <div className="skill-progress" style={{ width: "85%" }}></div>
@@ -282,20 +280,20 @@ export default function AboutPage() {
                   <div>
                     <div className="flex items-center justify-between mb-2">
                       <span className="font-medium">Secure Coding</span>
-                      <span className="text-sm text-muted-foreground">Advanced</span>
+                      <span className="text-sm text-muted-foreground">Intermediate</span>
                     </div>
                     <div className="skill-bar">
-                      <div className="skill-progress" style={{ width: "80%" }}></div>
+                      <div className="skill-progress" style={{ width: "50%" }}></div>
                     </div>
                   </div>
 
                   <div>
                     <div className="flex items-center justify-between mb-2">
                       <span className="font-medium">Incident Response</span>
-                      <span className="text-sm text-muted-foreground">Advanced</span>
+                      <span className="text-sm text-muted-foreground">Beginner</span>
                     </div>
                     <div className="skill-bar">
-                      <div className="skill-progress" style={{ width: "85%" }}></div>
+                      <div className="skill-progress" style={{ width: "36%" }}></div>
                     </div>
                   </div>
                 </div>
