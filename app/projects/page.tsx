@@ -51,7 +51,7 @@ export default function ProjectsPage() {
                   <div className="absolute inset-0 bg-gradient-to-t from-background to-transparent"></div>
                 </div>
                 <CardHeader className="relative">
-                  <CardTitle>Advanced Vulnerability Scanner</CardTitle>
+                  <CardTitle>Vulnerability Scanner</CardTitle>
                   <CardDescription>Automated security assessment tool</CardDescription>
                 </CardHeader>
                 <CardContent className="relative">
@@ -70,10 +70,10 @@ export default function ProjectsPage() {
                     </Badge>
                   </div>
                   <div className="flex gap-2">
-                    <Button variant="ghost" size="icon" className="h-8 w-8">
+{/*                     <Button variant="ghost" size="icon" className="h-8 w-8">
                       <Github className="h-4 w-4" />
                       <span className="sr-only">GitHub</span>
-                    </Button>
+                    </Button> */}
                     <Button variant="ghost" size="icon" className="h-8 w-8">
                       <ExternalLink className="h-4 w-4" />
                       <span className="sr-only">View project</span>
@@ -95,29 +95,28 @@ export default function ProjectsPage() {
                   <div className="absolute inset-0 bg-gradient-to-t from-background to-transparent"></div>
                 </div>
                 <CardHeader className="relative">
-                  <CardTitle>Real-time Security Dashboard</CardTitle>
-                  <CardDescription>Comprehensive monitoring solution</CardDescription>
+                  <CardTitle>Network Monitoring System</CardTitle>
+                  <CardDescription> Comprehensive monitoring solution </CardDescription>
                 </CardHeader>
                 <CardContent className="relative">
                   <p className="text-sm text-muted-foreground">
-                    Created a comprehensive security dashboard that provides real-time visibility into security events
-                    and potential threats across an organization with alert capabilities.
+                    Designed a comprehensive Network Monitoring dashboard that provides real-time visibility of how actual Networking tools works.
                   </p>
                 </CardContent>
                 <CardFooter className="relative flex justify-between">
                   <div className="flex flex-wrap gap-1">
                     <Badge variant="outline" className="bg-primary/10">
-                      React
+                      Next JS
                     </Badge>
                     <Badge variant="outline" className="bg-primary/10">
                       Node.js
                     </Badge>
                   </div>
                   <div className="flex gap-2">
-                    <Button variant="ghost" size="icon" className="h-8 w-8">
+{/*                     <Button variant="ghost" size="icon" className="h-8 w-8">
                       <Github className="h-4 w-4" />
                       <span className="sr-only">GitHub</span>
-                    </Button>
+                    </Button> */}
                     <Button variant="ghost" size="icon" className="h-8 w-8">
                       <ExternalLink className="h-4 w-4" />
                       <span className="sr-only">View project</span>
@@ -139,29 +138,28 @@ export default function ProjectsPage() {
                   <div className="absolute inset-0 bg-gradient-to-t from-background to-transparent"></div>
                 </div>
                 <CardHeader className="relative">
-                  <CardTitle>Advanced Phishing Simulator</CardTitle>
-                  <CardDescription>Security awareness training tool</CardDescription>
+                  <CardTitle>Keylogger Identification & Prevention</CardTitle>
+                  <CardDescription>Security Awareness Training Tool</CardDescription>
                 </CardHeader>
                 <CardContent className="relative">
                   <p className="text-sm text-muted-foreground">
-                    Built a sophisticated phishing simulation platform to help organizations train employees to
-                    recognize and avoid social engineering attacks with detailed analytics.
+                    Developed a web-based Keylogger Identification & Prevention, which pratically demonstrates how attackers use keylogger techniques to capture the Key strokes.
                   </p>
                 </CardContent>
                 <CardFooter className="relative flex justify-between">
                   <div className="flex flex-wrap gap-1">
                     <Badge variant="outline" className="bg-primary/10">
-                      PHP
+                      Python
                     </Badge>
                     <Badge variant="outline" className="bg-primary/10">
-                      JavaScript
+                      Security
                     </Badge>
                   </div>
                   <div className="flex gap-2">
-                    <Button variant="ghost" size="icon" className="h-8 w-8">
+{/*                     <Button variant="ghost" size="icon" className="h-8 w-8">
                       <Github className="h-4 w-4" />
                       <span className="sr-only">GitHub</span>
-                    </Button>
+                    </Button> */}
                     <Button variant="ghost" size="icon" className="h-8 w-8">
                       <ExternalLink className="h-4 w-4" />
                       <span className="sr-only">View project</span>
@@ -181,7 +179,7 @@ export default function ProjectsPage() {
                 <div className="inline-block cyber-badge mb-2">Project Portfolio</div>
                 <h2 className="text-3xl font-bold tracking-tighter md:text-4xl/tight">Complete Project Collection</h2>
                 <p className="max-w-[900px] text-muted-foreground md:text-xl">
-                  Browse through my complete portfolio of cybersecurity projects.
+                  Browse through my complete portfolio of projects.
                 </p>
               </div>
             </div>
@@ -190,13 +188,12 @@ export default function ProjectsPage() {
               {/* Project 4 */}
               <Card className="flex flex-col overflow-hidden transition-all hover:shadow-lg cyber-card">
                 <CardHeader>
-                  <CardTitle>Network Intrusion Detection</CardTitle>
-                  <CardDescription>Advanced threat detection system</CardDescription>
+                  <CardTitle>Placement Database System</CardTitle>
+                  <CardDescription>Maintains overall institution's student records</CardDescription>
                 </CardHeader>
                 <CardContent className="flex-1">
                   <p className="text-sm text-muted-foreground">
-                    Implemented a custom network intrusion detection system that uses machine learning to identify
-                    unusual patterns and potential security breaches.
+                    Developed a Placement Database System which lively track students updates including both co-curicular and extra curicular activities.
                   </p>
                 </CardContent>
                 <CardFooter className="flex justify-between">
