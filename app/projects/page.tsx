@@ -74,10 +74,11 @@ export default function ProjectsPage() {
                       <Github className="h-4 w-4" />
                       <span className="sr-only">GitHub</span>
                     </Button> */}
-{/*                     <Button variant="ghost" size="icon" className="h-8 w-8">
+                    <Button variant="ghost" size="icon" className="h-8 w-8">
                       <ExternalLink className="h-4 w-4" />
-                      <span className="sr-only">View project</span>
-                    </Button> */}
+                      <span className="sr-only" href="www.google.com">View project</span>
+{/*                       <Link href="/certifications">View My Certifications</Link> */}
+                    </Button>
                   </div>
                 </CardFooter>
               </Card>
@@ -343,10 +344,10 @@ export default function ProjectsPage() {
                       Web3
                     </Badge>
                   </div>
-                  <Button variant="ghost" size="icon">
+{/*                   <Button variant="ghost" size="icon">
                     <ExternalLink className="h-4 w-4" />
                     <span className="sr-only">View project</span>
-                  </Button>
+                  </Button> */}
                 </CardFooter>
               </Card>
             </div>
