@@ -44,8 +44,8 @@ export default function PublicationsPage() {
                 <div className="absolute inset-0 bg-gradient-to-r from-primary/10 to-primary-foreground/10 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
                 <div className="relative h-48 w-full overflow-hidden">
                   <Image
-                    src="/placeholder.svg?height=200&width=400"
-                    alt="Web Application Security Research"
+                    src="/pojects/nms.png?height=200&width=400"
+                    alt="NMS Research"
                     fill
                     className="object-cover transition-transform group-hover:scale-105"
                   />
@@ -53,18 +53,17 @@ export default function PublicationsPage() {
                   <div className="absolute bottom-0 left-0 w-full h-1 bg-primary/50 cyber-scan-line"></div>
                 </div>
                 <CardHeader className="relative">
-                  <CardTitle>Advanced Techniques in Web Application Penetration Testing</CardTitle>
-                  <CardDescription>Published in Security Journal, 2023</CardDescription>
+                  <CardTitle>Real-time Network Traffic Visualization and Analysis: A Web-based Network Monitoring System</CardTitle>
+                  <CardDescription>Published in TNSTC Sponsered Conference, 2025</CardDescription>
                 </CardHeader>
                 <CardContent className="relative">
                   <p className="text-sm text-muted-foreground">
-                    This research paper explores innovative approaches to identifying and exploiting vulnerabilities in
-                    modern web applications, with a focus on single-page applications and API security.
+                    This research paper explores innovative approaches to educate students by teaching how the actual Network Monitoring Tools like NMPA, Wireshark, etc. wll works.
                   </p>
                 </CardContent>
                 <CardFooter className="relative flex justify-end">
                   <Button variant="outline" size="sm" className="group cyber-outline-button" asChild>
-                    <Link href="#">
+                    <Link href="https://drive.google.com/file/d/1LP_rDYIg_M4j21yM90Pea--82wNknqjO/view?usp=drive_link">
                       Read Paper
                       <ExternalLink className="ml-2 h-4 w-4 transition-transform group-hover:translate-x-1" />
                     </Link>
@@ -77,8 +76,8 @@ export default function PublicationsPage() {
                 <div className="absolute inset-0 bg-gradient-to-r from-primary/10 to-primary-foreground/10 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
                 <div className="relative h-48 w-full overflow-hidden">
                   <Image
-                    src="/placeholder.svg?height=200&width=400"
-                    alt="Ransomware Research"
+                    src="/projects/keylogger.png?height=200&width=400"
+                    alt="Keylogger Research"
                     fill
                     className="object-cover transition-transform group-hover:scale-105"
                   />
@@ -86,18 +85,17 @@ export default function PublicationsPage() {
                   <div className="absolute bottom-0 left-0 w-full h-1 bg-primary/50 cyber-scan-line"></div>
                 </div>
                 <CardHeader className="relative">
-                  <CardTitle>The Evolution of Ransomware: Trends and Mitigation Strategies</CardTitle>
-                  <CardDescription>Cybersecurity Conference, 2022</CardDescription>
+                  <CardTitle>From Theory to Practice: Keylogger Detection and Cyber Threat Intelligence in IT Security Education</CardTitle>
+                  <CardDescription>International Conference, 2025</CardDescription>
                 </CardHeader>
                 <CardContent className="relative">
                   <p className="text-sm text-muted-foreground">
-                    A comprehensive analysis of ransomware evolution over the past decade, examining attack vectors,
-                    encryption techniques, and effective organizational defense strategies.
+                    A comprehensive analysis of Keylogger which creates awareness among individuals and students about the major hidden thread in the Modern-era.
                   </p>
                 </CardContent>
                 <CardFooter className="relative flex justify-end">
                   <Button variant="outline" size="sm" className="group cyber-outline-button" asChild>
-                    <Link href="#">
+                    <Link href="https://drive.google.com/file/d/10-FQYpAg3nOqV_BIzRxOdaK2Ha_awF4q/view?usp=drive_link">
                       View Presentation
                       <ExternalLink className="ml-2 h-4 w-4 transition-transform group-hover:translate-x-1" />
                     </Link>
@@ -126,18 +124,17 @@ export default function PublicationsPage() {
               <Card className="overflow-hidden transition-all hover:shadow-lg cyber-card">
                 <div className="absolute top-0 right-0 w-20 h-20 bg-primary/5 transform rotate-45 translate-x-10 -translate-y-10 cyber-corner"></div>
                 <CardHeader>
-                  <CardTitle>Securing the Internet of Things: Challenges and Solutions</CardTitle>
-                  <CardDescription>Tech Security Magazine, 2022</CardDescription>
+                  <CardTitle>Authentication Bypass using SQL Injection on Login Page</CardTitle>
+                  <CardDescription>Tech Article, 2024</CardDescription>
                 </CardHeader>
                 <CardContent>
                   <p className="text-sm text-muted-foreground">
-                    This article addresses the unique security challenges posed by IoT devices and proposes a framework
-                    for implementing robust security measures in IoT ecosystems.
+                    This article addresses how to bypass Login pages by using SQL Injection attacks.
                   </p>
                 </CardContent>
                 <CardFooter>
                   <Button variant="outline" size="sm" className="ml-auto cyber-outline-button" asChild>
-                    <Link href="#">
+                    <Link href="https://www.tutorialspoint.com/authentication-bypass-using-sql-injection-on-login-page">
                       Read Article
                       <ExternalLink className="ml-2 h-4 w-4" />
                     </Link>
@@ -149,19 +146,18 @@ export default function PublicationsPage() {
               <Card className="overflow-hidden transition-all hover:shadow-lg cyber-card">
                 <div className="absolute top-0 right-0 w-20 h-20 bg-primary/5 transform rotate-45 translate-x-10 -translate-y-10 cyber-corner"></div>
                 <CardHeader>
-                  <CardTitle>Zero Trust Architecture: Implementation Guide for Modern Enterprises</CardTitle>
-                  <CardDescription>Enterprise Security Today, 2021</CardDescription>
+                  <CardTitle>How to Set Git Username and Password in GitBash?</CardTitle>
+                  <CardDescription>Tech Article, 2024</CardDescription>
                 </CardHeader>
                 <CardContent>
                   <p className="text-sm text-muted-foreground">
-                    A practical guide to implementing Zero Trust security models in enterprise environments, including
-                    step-by-step approaches and case studies of successful deployments.
+                    An article which clearly describes how to set username and password in Gitbash.
                   </p>
                 </CardContent>
                 <CardFooter>
                   <Button variant="outline" size="sm" className="ml-auto cyber-outline-button" asChild>
-                    <Link href="#">
-                      Read Guide
+                    <Link href="https://www.tutorialspoint.com/how-to-set-git-username-and-password-in-gitbash">
+                      Read Article
                       <ExternalLink className="ml-2 h-4 w-4" />
                     </Link>
                   </Button>
@@ -172,19 +168,18 @@ export default function PublicationsPage() {
               <Card className="overflow-hidden transition-all hover:shadow-lg cyber-card">
                 <div className="absolute top-0 right-0 w-20 h-20 bg-primary/5 transform rotate-45 translate-x-10 -translate-y-10 cyber-corner"></div>
                 <CardHeader>
-                  <CardTitle>Machine Learning in Cybersecurity: Applications and Limitations</CardTitle>
-                  <CardDescription>AI Security Journal, 2022</CardDescription>
+                  <CardTitle>Top 10 AI Tools for Text Spam Detection</CardTitle>
+                  <CardDescription>Tech Article, 2024</CardDescription>
                 </CardHeader>
                 <CardContent>
                   <p className="text-sm text-muted-foreground">
-                    An exploration of how machine learning is being applied to cybersecurity challenges, with a critical
-                    analysis of its effectiveness and potential limitations.
+                    Thsi article describes the Top 10 AI tools to detect Spam Texts.
                   </p>
                 </CardContent>
                 <CardFooter>
                   <Button variant="outline" size="sm" className="ml-auto cyber-outline-button" asChild>
-                    <Link href="#">
-                      Read Paper
+                    <Link href="https://www.tutorialspoint.com/top-10-ai-tools-for-text-spam-detection">
+                      Read Article
                       <ExternalLink className="ml-2 h-4 w-4" />
                     </Link>
                   </Button>
@@ -195,19 +190,18 @@ export default function PublicationsPage() {
               <Card className="overflow-hidden transition-all hover:shadow-lg cyber-card">
                 <div className="absolute top-0 right-0 w-20 h-20 bg-primary/5 transform rotate-45 translate-x-10 -translate-y-10 cyber-corner"></div>
                 <CardHeader>
-                  <CardTitle>Supply Chain Security: Protecting the Software Development Lifecycle</CardTitle>
-                  <CardDescription>DevSecOps Conference, 2023</CardDescription>
+                  <CardTitle>10 Best AI Tools for Inventory Management</CardTitle>
+                  <CardDescription>Tech Article, 2024</CardDescription>
                 </CardHeader>
                 <CardContent>
                   <p className="text-sm text-muted-foreground">
-                    A comprehensive analysis of supply chain security risks in software development and strategies for
-                    securing the entire development lifecycle.
+                    A comprehensive artcile consisting of 10 AI tools used for Inventory Management in the industry.
                   </p>
                 </CardContent>
                 <CardFooter>
                   <Button variant="outline" size="sm" className="ml-auto cyber-outline-button" asChild>
-                    <Link href="#">
-                      View Presentation
+                    <Link href="https://www.tutorialspoint.com/10-best-ai-tools-for-inventory-management">
+                      Read Article
                       <ExternalLink className="ml-2 h-4 w-4" />
                     </Link>
                   </Button>
@@ -218,18 +212,17 @@ export default function PublicationsPage() {
               <Card className="overflow-hidden transition-all hover:shadow-lg cyber-card">
                 <div className="absolute top-0 right-0 w-20 h-20 bg-primary/5 transform rotate-45 translate-x-10 -translate-y-10 cyber-corner"></div>
                 <CardHeader>
-                  <CardTitle>Cloud Security Governance: A Framework for Multi-Cloud Environments</CardTitle>
-                  <CardDescription>Cloud Security Alliance Journal, 2022</CardDescription>
+                  <CardTitle>Top 15 Extensions for ReactJS in VSCode</CardTitle>
+                  <CardDescription>Tech Article, 2024</CardDescription>
                 </CardHeader>
                 <CardContent>
                   <p className="text-sm text-muted-foreground">
-                    This paper presents a governance framework for managing security across multiple cloud providers,
-                    addressing the unique challenges of hybrid and multi-cloud architectures.
+                    This article describes 
                   </p>
                 </CardContent>
                 <CardFooter>
                   <Button variant="outline" size="sm" className="ml-auto cyber-outline-button" asChild>
-                    <Link href="#">
+                    <Link href="https://www.tutorialspoint.com/top-extensions-for-reactjs-in-vscode">
                       Read Paper
                       <ExternalLink className="ml-2 h-4 w-4" />
                     </Link>
@@ -259,13 +252,13 @@ export default function PublicationsPage() {
                 <div className="absolute top-0 left-0 w-2 h-full bg-primary/50"></div>
                 <div className="flex flex-col md:flex-row gap-4 md:items-center">
                   <div className="flex-shrink-0 flex items-center justify-center h-16 w-16 rounded-full bg-primary/10 text-primary font-bold cyber-glow">
-                    2023
+                    2025
                   </div>
                   <div className="flex-grow">
-                    <h3 className="text-xl font-bold">Black Hat USA</h3>
-                    <p className="text-sm text-muted-foreground">Las Vegas, NV - August 2023</p>
+                    <h3 className="text-xl font-bold">DSCE, Coimbatore</h3>
+                    <p className="text-sm text-muted-foreground">March 2025</p>
                     <p className="mt-2">
-                      "Advanced Exploitation Techniques for Modern Web Frameworks: Beyond the OWASP Top 10"
+                      "International Conference on Emerging Trends in Artificial Intelligence (ICETAI'25)"
                     </p>
                   </div>
                   <div className="flex-shrink-0 mt-4 md:mt-0">
@@ -284,13 +277,13 @@ export default function PublicationsPage() {
                 <div className="absolute top-0 left-0 w-2 h-full bg-primary/50"></div>
                 <div className="flex flex-col md:flex-row gap-4 md:items-center">
                   <div className="flex-shrink-0 flex items-center justify-center h-16 w-16 rounded-full bg-primary/10 text-primary font-bold cyber-glow">
-                    2022
+                    2025
                   </div>
                   <div className="flex-grow">
-                    <h3 className="text-xl font-bold">DEF CON 30</h3>
-                    <p className="text-sm text-muted-foreground">Las Vegas, NV - August 2022</p>
+                    <h3 className="text-xl font-bold">PACET, Pollachi</h3>
+                    <p className="text-sm text-muted-foreground">January 2025</p>
                     <p className="mt-2">
-                      "Breaking Blockchain Security: Vulnerabilities in Smart Contract Implementations"
+                      "Futuristic Trends in Artificial Intelligence and Nano Science for Modern Engineering Applications"
                     </p>
                   </div>
                   <div className="flex-shrink-0 mt-4 md:mt-0">
@@ -305,7 +298,7 @@ export default function PublicationsPage() {
               </div>
 
               {/* Event 3 */}
-              <div className="group relative overflow-hidden rounded-lg border p-6 transition-all hover:bg-muted/50 cyber-card">
+  {/*               <div className="group relative overflow-hidden rounded-lg border p-6 transition-all hover:bg-muted/50 cyber-card">
                 <div className="absolute top-0 left-0 w-2 h-full bg-primary/50"></div>
                 <div className="flex flex-col md:flex-row gap-4 md:items-center">
                   <div className="flex-shrink-0 flex items-center justify-center h-16 w-16 rounded-full bg-primary/10 text-primary font-bold cyber-glow">
@@ -325,7 +318,7 @@ export default function PublicationsPage() {
                     </Button>
                   </div>
                 </div>
-              </div>
+              </div> */}
             </div>
           </div>
         </section>
