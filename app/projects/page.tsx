@@ -74,11 +74,10 @@ export default function ProjectsPage() {
                       <Github className="h-4 w-4" />
                       <span className="sr-only">GitHub</span>
                     </Button> */}
-                    <Button variant="ghost" size="icon" className="h-8 w-8">
+{/*                     <Button variant="ghost" size="icon" className="h-8 w-8">
                       <ExternalLink className="h-4 w-4" />
-                      <span className="sr-only"> </span>
-                       <Link href="www.google.com", "_blank"></Link>
-                    </Button>
+                      <span className="sr-only">View Project</span>
+                    </Button> */}
                   </div>
                 </CardFooter>
               </Card>
