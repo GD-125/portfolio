@@ -228,7 +228,7 @@ export default function Home() {
               <Card className="group cyber-card overflow-hidden hover-lift">
                 <div className="relative h-48 w-full overflow-hidden">
                   <Image
-                    src="/certificates/progress.png?height=200&width=400"
+                    src="/certificates/progress.jpg?height=200&width=400"
                     alt="Security Monitor"
                     fill
                     className="object-cover transition-transform group-hover:scale-105"
