@@ -77,7 +77,7 @@ export default function ProjectsPage() {
                     <Button variant="ghost" size="icon" className="h-8 w-8">
                       <ExternalLink className="h-4 w-4" />
                       <span className="sr-only"> </span>
-                       <Link href="www.google.com">View project</Link>
+                       <Link href="www.google.com", "_blank"></Link>
                     </Button>
                   </div>
                 </CardFooter>
