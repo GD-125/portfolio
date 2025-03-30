@@ -159,7 +159,7 @@ export default function Home() {
               <Card className="group cyber-card overflow-hidden hover-lift">
                 <div className="relative h-48 w-full overflow-hidden">
                   <Image
-                    src="/placeholder.svg?height=200&width=400"
+                    src="/projects/keylogger.png?height=200&width=400"
                     alt="Keylogger Idetentification"
                     fill
                     className="object-cover transition-transform group-hover:scale-105"
@@ -175,7 +175,7 @@ export default function Home() {
                   <div className="flex justify-between items-center">
                     <div className="flex flex-wrap gap-1">
                       <Badge variant="outline" className="bg-primary/10">
-                        Python
+                        TypeScript
                       </Badge>
                       <Badge variant="outline" className="bg-primary/10">
                         Security
@@ -194,8 +194,8 @@ export default function Home() {
               <Card className="group cyber-card overflow-hidden hover-lift">
                 <div className="relative h-48 w-full overflow-hidden">
                   <Image
-                    src="/placeholder.svg?height=200&width=400"
-                    alt="Security Dashboard"
+                    src="/projects/nms.png?height=200&width=400"
+                    alt="Network Monitoring System"
                     fill
                     className="object-cover transition-transform group-hover:scale-105"
                   />
@@ -209,7 +209,7 @@ export default function Home() {
                   <div className="flex justify-between items-center">
                     <div className="flex flex-wrap gap-1">
                       <Badge variant="outline" className="bg-primary/10">
-                        React
+                        Next JS
                       </Badge>
                       <Badge variant="outline" className="bg-primary/10">
                         Node.js
@@ -228,8 +228,8 @@ export default function Home() {
               <Card className="group cyber-card overflow-hidden hover-lift">
                 <div className="relative h-48 w-full overflow-hidden">
                   <Image
-                    src="/placeholder.svg?height=200&width=400"
-                    alt="Phishing Simulator"
+                    src="/certificates/progress.png?height=200&width=400"
+                    alt="Security Monitor"
                     fill
                     className="object-cover transition-transform group-hover:scale-105"
                   />
@@ -247,7 +247,7 @@ export default function Home() {
                         PHP
                       </Badge>
                       <Badge variant="outline" className="bg-primary/10">
-                        JavaScript
+                        Security
                       </Badge>
                     </div>
                     <Button variant="ghost" size="sm" className="group" asChild>
