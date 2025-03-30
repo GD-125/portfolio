@@ -46,8 +46,8 @@ export default function CertificationsPage() {
                 <div className="absolute inset-0 bg-gradient-to-r from-primary/10 to-primary-foreground/10 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
                 <div className="relative h-48 w-full overflow-hidden bg-muted">
                   <Image
-                    src="/placeholder.svg?height=200&width=400"
-                    alt="CEH Certification"
+                    src="/certificates/NPTEL.png?height=200&width=400"
+                    alt="NPTEL Certification"
                     fill
                     className="object-cover transition-transform group-hover:scale-105"
                   />
@@ -64,7 +64,7 @@ export default function CertificationsPage() {
                   <div className="mt-4 flex justify-between items-center">
                     <span className="text-xs text-muted-foreground">Issued: Nov 2024</span>
                     <Button variant="ghost" size="sm" className="group" asChild>
-                      <Link href="#">
+                      <Link href="https://drive.google.com/file/d/1-ipMheYplTn8weyC0naq9DV0b6O2Yk7g/view?usp=drive_link">
                         View Certificate
                         <ArrowRight className="ml-2 h-4 w-4 transition-transform group-hover:translate-x-1" />
                       </Link>
@@ -78,8 +78,8 @@ export default function CertificationsPage() {
                 <div className="absolute inset-0 bg-gradient-to-r from-primary/10 to-primary-foreground/10 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
                 <div className="relative h-48 w-full overflow-hidden bg-muted">
                   <Image
-                    src="/placeholder.svg?height=200&width=400"
-                    alt="OSCP Certification"
+                    src="/certificates/Computer Hacking Forensics.png?height=200&width=400"
+                    alt="Computer Hacking Forensics Certification"
                     fill
                     className="object-cover transition-transform group-hover:scale-105"
                   />
@@ -97,7 +97,7 @@ export default function CertificationsPage() {
                   <div className="mt-4 flex justify-between items-center">
                     <span className="text-xs text-muted-foreground">Issued: June 2024</span>
                     <Button variant="ghost" size="sm" className="group" asChild>
-                      <Link href="#">
+                      <Link href="https://drive.google.com/file/d/18lHiwuXbImYnXI7mHH8BAs2oanOvNmxb/view?usp=drive_link">
                         View Certificate
                         <ArrowRight className="ml-2 h-4 w-4 transition-transform group-hover:translate-x-1" />
                       </Link>
@@ -111,8 +111,8 @@ export default function CertificationsPage() {
                 <div className="absolute inset-0 bg-gradient-to-r from-primary/10 to-primary-foreground/10 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
                 <div className="relative h-48 w-full overflow-hidden bg-muted">
                   <Image
-                    src="/placeholder.svg?height=200&width=400"
-                    alt="CISSP Certification"
+                    src="/certificates/HackFest.jpg?height=200&width=400"
+                    alt="Hackathon Certification"
                     fill
                     className="object-cover transition-transform group-hover:scale-105"
                   />
@@ -129,9 +129,9 @@ export default function CertificationsPage() {
                     This Hackathon gained an experience about how Industry expects and I gained a community network with the members from various domains. 
                   </p>
                   <div className="mt-4 flex justify-between items-center">
-                    <span className="text-xs text-muted-foreground">Issued: Sep 2020</span>
+                    <span className="text-xs text-muted-foreground">Issued: Feb 2025</span>
                     <Button variant="ghost" size="sm" className="group" asChild>
-                      <Link href="#">
+                      <Link href="https://drive.google.com/file/d/1dPXGxK7cm5ORP32Qk9uR4IsegNWR1hNW/view?usp=drive_link">
                         View Certificate
                         <ArrowRight className="ml-2 h-4 w-4 transition-transform group-hover:translate-x-1" />
                       </Link>
@@ -145,8 +145,8 @@ export default function CertificationsPage() {
                 <div className="absolute inset-0 bg-gradient-to-r from-primary/10 to-primary-foreground/10 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
                 <div className="relative h-48 w-full overflow-hidden bg-muted">
                   <Image
-                    src="/placeholder.svg?height=200&width=400"
-                    alt="Security+ Certification"
+                    src="/cetificates/ISRO.png?height=200&width=400"
+                    alt="ISRO Certification"
                     fill
                     className="object-cover transition-transform group-hover:scale-105"
                   />
@@ -161,9 +161,9 @@ export default function CertificationsPage() {
                     This 2 weeks bootcamp teaches how Indian Government is securing the databases from cyber threads by making ai gapped systems and maintaining authentication levels.
                   </p>
                   <div className="mt-4 flex justify-between items-center">
-                    <span className="text-xs text-muted-foreground">Issued: Jun 2019</span>
+                    <span className="text-xs text-muted-foreground">Issued: Jan 2025</span>
                     <Button variant="ghost" size="sm" className="group" asChild>
-                      <Link href="#">
+                      <Link href="https://drive.google.com/file/d/1bkiSEw9HnZtdtN3wCE-S1Sxe0kPtSweR/view?usp=drive_link">
                         View Certificate
                         <ArrowRight className="ml-2 h-4 w-4 transition-transform group-hover:translate-x-1" />
                       </Link>
@@ -177,8 +177,8 @@ export default function CertificationsPage() {
                 <div className="absolute inset-0 bg-gradient-to-r from-primary/10 to-primary-foreground/10 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
                 <div className="relative h-48 w-full overflow-hidden bg-muted">
                   <Image
-                    src="/placeholder.svg?height=200&width=400"
-                    alt="CISM Certification"
+                    src="/certificates/SQL.png?height=200&width=400"
+                    alt="SQL Injection Certification"
                     fill
                     className="object-cover transition-transform group-hover:scale-105"
                   />
@@ -195,7 +195,7 @@ export default function CertificationsPage() {
                   <div className="mt-4 flex justify-between items-center">
                     <span className="text-xs text-muted-foreground">Issued: July 2024</span>
                     <Button variant="ghost" size="sm" className="group" asChild>
-                      <Link href="#">
+                      <Link href="https://drive.google.com/file/d/1-wTRASzDxTE5vXqEThKGgzECuRjAm_6N/view?usp=drive_link">
                         View Certificate
                         <ArrowRight className="ml-2 h-4 w-4 transition-transform group-hover:translate-x-1" />
                       </Link>
@@ -209,8 +209,8 @@ export default function CertificationsPage() {
                 <div className="absolute inset-0 bg-gradient-to-r from-primary/10 to-primary-foreground/10 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
                 <div className="relative h-48 w-full overflow-hidden bg-muted">
                   <Image
-                    src="/placeholder.svg?height=200&width=400"
-                    alt="GWAPT Certification"
+                    src="/certificates/progess.png?height=200&width=400"
+                    alt="CompTIA Security+ Certification"
                     fill
                     className="object-cover transition-transform group-hover:scale-105"
                   />
@@ -227,7 +227,7 @@ export default function CertificationsPage() {
                   <div className="mt-4 flex justify-between items-center">
                     <span className="text-xs text-muted-foreground">Issued: Feb 2021</span>
                     <Button variant="ghost" size="sm" className="group" asChild>
-                      <Link href="#">
+                      <Link href="https://drive.google.com/file/d/1F5EfCfsQ4SiOi3BExWFClnf6djXXnJFq/view?usp=drive_link">
                         View Certificate
                         <ArrowRight className="ml-2 h-4 w-4 transition-transform group-hover:translate-x-1" />
                       </Link>
