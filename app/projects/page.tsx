@@ -43,7 +43,7 @@ export default function ProjectsPage() {
                 <div className="absolute inset-0 bg-gradient-to-r from-primary/10 to-primary-foreground/10 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
                 <div className="relative h-48 w-full overflow-hidden">
                   <Image
-                    src="/project/vul_scanner.png?height=200&width=400"
+                    src="/projects/vul_scanner.png?height=200&width=400"
                     alt="Vulnerability Scanner"
                     fill
                     className="object-cover transition-transform group-hover:scale-105"
@@ -87,7 +87,7 @@ export default function ProjectsPage() {
                 <div className="absolute inset-0 bg-gradient-to-r from-primary/10 to-primary-foreground/10 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
                 <div className="relative h-48 w-full overflow-hidden">
                   <Image
-                    src="/project/nms.png?height=200&width=400"
+                    src="/projects/nms.png?height=200&width=400"
                     alt="Network Monitoring System"
                     fill
                     className="object-cover transition-transform group-hover:scale-105"
@@ -130,7 +130,7 @@ export default function ProjectsPage() {
                 <div className="absolute inset-0 bg-gradient-to-r from-primary/10 to-primary-foreground/10 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
                 <div className="relative h-48 w-full overflow-hidden">
                   <Image
-                    src="/project/keylogger.png?height=200&width=400"
+                    src="/projects/keylogger.png?height=200&width=400"
                     alt="Keylogger"
                     fill
                     className="object-cover transition-transform group-hover:scale-105"
