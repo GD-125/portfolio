@@ -214,9 +214,9 @@ export default function CertificationsPage() {
                     fill
                     className="object-cover transition-transform group-hover:scale-105"
                   />
-                  <div className="absolute top-2 right-2">
-                    <Badge className="bg-primary text-primary-foreground">Verified</Badge>
-                  </div>
+{/*                   <div className="absolute top-2 right-2">
+                     <Badge className="bg-primary text-primary-foreground">Verified</Badge>
+                  </div>  */}
                 </div>
                 <div className="p-6 relative">
                   <h3 className="text-xl font-bold mb-2">CompTIA Security+ (In Progress)</h3>
