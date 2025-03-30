@@ -43,7 +43,7 @@ export default function ProjectsPage() {
                 <div className="absolute inset-0 bg-gradient-to-r from-primary/10 to-primary-foreground/10 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
                 <div className="relative h-48 w-full overflow-hidden">
                   <Image
-                    src="/placeholder.svg?height=200&width=400"
+                    src="/project/vul_scanner.png?height=200&width=400"
                     alt="Vulnerability Scanner"
                     fill
                     className="object-cover transition-transform group-hover:scale-105"
@@ -87,8 +87,8 @@ export default function ProjectsPage() {
                 <div className="absolute inset-0 bg-gradient-to-r from-primary/10 to-primary-foreground/10 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
                 <div className="relative h-48 w-full overflow-hidden">
                   <Image
-                    src="/placeholder.svg?height=200&width=400"
-                    alt="Security Dashboard"
+                    src="/project/nms.png?height=200&width=400"
+                    alt="Network Monitoring System"
                     fill
                     className="object-cover transition-transform group-hover:scale-105"
                   />
@@ -130,8 +130,8 @@ export default function ProjectsPage() {
                 <div className="absolute inset-0 bg-gradient-to-r from-primary/10 to-primary-foreground/10 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
                 <div className="relative h-48 w-full overflow-hidden">
                   <Image
-                    src="/placeholder.svg?height=200&width=400"
-                    alt="Phishing Simulator"
+                    src="/project/keylogger.png?height=200&width=400"
+                    alt="Keylogger"
                     fill
                     className="object-cover transition-transform group-hover:scale-105"
                   />
@@ -199,16 +199,16 @@ export default function ProjectsPage() {
                 <CardFooter className="flex justify-between">
                   <div className="flex flex-wrap gap-1">
                     <Badge variant="outline" className="bg-primary/10">
-                      Python
+                      PHP
                     </Badge>
                     <Badge variant="outline" className="bg-primary/10">
-                      ML
+                      JavaScript
                     </Badge>
                   </div>
-                  <Button variant="ghost" size="icon">
+{/*                   <Button variant="ghost" size="icon">
                     <ExternalLink className="h-4 w-4" />
                     <span className="sr-only">View project</span>
-                  </Button>
+                  </Button> */}
                 </CardFooter>
               </Card>
 
@@ -233,51 +233,49 @@ export default function ProjectsPage() {
                       SAST
                     </Badge>
                   </div>
-                  <Button variant="ghost" size="icon">
+{/*                   <Button variant="ghost" size="icon">
                     <ExternalLink className="h-4 w-4" />
                     <span className="sr-only">View project</span>
-                  </Button>
+                  </Button> */}
                 </CardFooter>
               </Card>
 
               {/* Project 6 */}
               <Card className="flex flex-col overflow-hidden transition-all hover:shadow-lg cyber-card">
                 <CardHeader>
-                  <CardTitle>IoT Security Framework</CardTitle>
-                  <CardDescription>Security for connected devices</CardDescription>
+                  <CardTitle>IT Department Website</CardTitle>
+                  <CardDescription>Attractive Deptartment Website</CardDescription>
                 </CardHeader>
                 <CardContent className="flex-1">
                   <p className="text-sm text-muted-foreground">
-                    Created a comprehensive security framework for IoT devices, addressing common vulnerabilities and
-                    providing secure communication protocols.
+                    Developed an attractive IT Deptartment website which clearly highlights the department activties and the students achievements.
                   </p>
                 </CardContent>
                 <CardFooter className="flex justify-between">
                   <div className="flex flex-wrap gap-1">
                     <Badge variant="outline" className="bg-primary/10">
-                      C++
+                      Next JS
                     </Badge>
                     <Badge variant="outline" className="bg-primary/10">
-                      IoT
+                      Tailwind CSS
                     </Badge>
                   </div>
-                  <Button variant="ghost" size="icon">
+{/*                   <Button variant="ghost" size="icon">
                     <ExternalLink className="h-4 w-4" />
                     <span className="sr-only">View project</span>
-                  </Button>
+                  </Button> */}
                 </CardFooter>
               </Card>
 
               {/* Project 7 */}
               <Card className="flex flex-col overflow-hidden transition-all hover:shadow-lg cyber-card">
                 <CardHeader>
-                  <CardTitle>Cloud Security Posture Manager</CardTitle>
-                  <CardDescription>Cloud infrastructure security</CardDescription>
+                  <CardTitle>Data Breach Monitoring System</CardTitle>
+                  <CardDescription>It will lively tracks Breaches in the organization</CardDescription>
                 </CardHeader>
                 <CardContent className="flex-1">
                   <p className="text-sm text-muted-foreground">
-                    Built a tool to continuously monitor and improve cloud security posture across AWS, Azure, and GCP
-                    environments with automated remediation capabilities.
+                    Developing a tool to continuously monitor and improve organization security by monitoring Data Breaches inside the Organization.
                   </p>
                 </CardContent>
                 <CardFooter className="flex justify-between">
@@ -289,10 +287,10 @@ export default function ProjectsPage() {
                       Cloud
                     </Badge>
                   </div>
-                  <Button variant="ghost" size="icon">
+{/*                   <Button variant="ghost" size="icon">
                     <ExternalLink className="h-4 w-4" />
                     <span className="sr-only">View project</span>
-                  </Button>
+                  </Button> */}
                 </CardFooter>
               </Card>
 
@@ -304,7 +302,7 @@ export default function ProjectsPage() {
                 </CardHeader>
                 <CardContent className="flex-1">
                   <p className="text-sm text-muted-foreground">
-                    Developed an automated tool for scanning mobile applications for security vulnerabilities, including
+                    Developing an automated tool for scanning mobile applications for security vulnerabilities, including
                     insecure data storage, weak cryptography, and API vulnerabilities.
                   </p>
                 </CardContent>
@@ -317,10 +315,10 @@ export default function ProjectsPage() {
                       Swift
                     </Badge>
                   </div>
-                  <Button variant="ghost" size="icon">
+{/*                   <Button variant="ghost" size="icon">
                     <ExternalLink className="h-4 w-4" />
                     <span className="sr-only">View project</span>
-                  </Button>
+                  </Button> */}
                 </CardFooter>
               </Card>
 
