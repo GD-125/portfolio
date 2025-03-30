@@ -117,7 +117,9 @@ export default function ProjectsPage() {
                       <Github className="h-4 w-4" />
                       <span className="sr-only">GitHub</span>
                     </Button> */}
-                    <Button variant="ghost" size="icon" className="h-8 w-8">
+                    <Button variant="ghost" size="icon" className="h-8 w-8"
+                      onClick={() => window.open("https://https://network-monitoring-system-intern.vercel.app", "_blank")}
+                      >
                       <ExternalLink className="h-4 w-4" />
                       <span className="sr-only">View project</span>
                     </Button>
@@ -149,7 +151,7 @@ export default function ProjectsPage() {
                 <CardFooter className="relative flex justify-between">
                   <div className="flex flex-wrap gap-1">
                     <Badge variant="outline" className="bg-primary/10">
-                      Python
+                      Next JS
                     </Badge>
                     <Badge variant="outline" className="bg-primary/10">
                       Security
@@ -160,7 +162,9 @@ export default function ProjectsPage() {
                       <Github className="h-4 w-4" />
                       <span className="sr-only">GitHub</span>
                     </Button> */}
-                    <Button variant="ghost" size="icon" className="h-8 w-8">
+                    <Button variant="ghost" size="icon" className="h-8 w-8"
+                      onClick={() => window.open("https://edu-keylogger.vercel.app", "_blank")}
+                      >
                       <ExternalLink className="h-4 w-4" />
                       <span className="sr-only">View project</span>
                     </Button>
