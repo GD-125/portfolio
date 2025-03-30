@@ -149,7 +149,7 @@ export default function ProjectsPage() {
                 <CardFooter className="relative flex justify-between">
                   <div className="flex flex-wrap gap-1">
                     <Badge variant="outline" className="bg-primary/10">
-                      Next JS
+                      TypeScript
                     </Badge>
                     <Badge variant="outline" className="bg-primary/10">
                       Security
