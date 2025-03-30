@@ -44,7 +44,7 @@ export default function PublicationsPage() {
                 <div className="absolute inset-0 bg-gradient-to-r from-primary/10 to-primary-foreground/10 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
                 <div className="relative h-48 w-full overflow-hidden">
                   <Image
-                    src="/pojects/nms.png?height=200&width=400"
+                    src="/projects/nms.png?height=200&width=400"
                     alt="NMS Research"
                     fill
                     className="object-cover transition-transform group-hover:scale-105"
@@ -96,7 +96,7 @@ export default function PublicationsPage() {
                 <CardFooter className="relative flex justify-end">
                   <Button variant="outline" size="sm" className="group cyber-outline-button" asChild>
                     <Link href="https://drive.google.com/file/d/10-FQYpAg3nOqV_BIzRxOdaK2Ha_awF4q/view?usp=drive_link">
-                      View Presentation
+                      Read Paper
                       <ExternalLink className="ml-2 h-4 w-4 transition-transform group-hover:translate-x-1" />
                     </Link>
                   </Button>
@@ -217,7 +217,7 @@ export default function PublicationsPage() {
                 </CardHeader>
                 <CardContent>
                   <p className="text-sm text-muted-foreground">
-                    This article describes 
+                    This article shows that top 15 extensions required for ReactJS in VSCode.
                   </p>
                 </CardContent>
                 <CardFooter>
@@ -263,7 +263,7 @@ export default function PublicationsPage() {
                   </div>
                   <div className="flex-shrink-0 mt-4 md:mt-0">
                     <Button variant="outline" size="sm" className="group cyber-outline-button" asChild>
-                      <Link href="#">
+                      <Link href="https://drive.google.com/file/d/1CPc--PvTclFHNiuu_6rkX90ikxJQHJlo/view?usp=drive_link">
                         View Slides
                         <ExternalLink className="ml-2 h-4 w-4 transition-transform group-hover:translate-x-1" />
                       </Link>
@@ -288,7 +288,7 @@ export default function PublicationsPage() {
                   </div>
                   <div className="flex-shrink-0 mt-4 md:mt-0">
                     <Button variant="outline" size="sm" className="group cyber-outline-button" asChild>
-                      <Link href="#">
+                      <Link href="https://drive.google.com/file/d/1ZZ1PRPaedHBDdW6ZnvVbMKVyVkAHZHia/view?usp=drive_link">
                         View Slides
                         <ExternalLink className="ml-2 h-4 w-4 transition-transform group-hover:translate-x-1" />
                       </Link>
