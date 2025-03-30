@@ -209,7 +209,7 @@ export default function CertificationsPage() {
                 <div className="absolute inset-0 bg-gradient-to-r from-primary/10 to-primary-foreground/10 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
                 <div className="relative h-48 w-full overflow-hidden bg-muted">
                   <Image
-                    src="/certificates/progress.png?height=200&width=400"
+                    src="/certificates/progress.jpg?height=200&width=400"
                     alt="CompTIA Security+ Certification"
                     fill
                     className="object-cover transition-transform group-hover:scale-105"
@@ -220,7 +220,7 @@ export default function CertificationsPage() {
                 </div>
                 <div className="p-6 relative">
                   <h3 className="text-xl font-bold mb-2">CompTIA Security+ (In Progress)</h3>
-                  <p className="text-sm text-muted-foreground mb-4">GIAC</p>
+                  <p className="text-sm text-muted-foreground mb-4">CopmTIA</p>
                   <p className="text-sm">
                     Ongoing the course.
                   </p>
