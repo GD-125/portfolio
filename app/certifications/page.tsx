@@ -145,7 +145,7 @@ export default function CertificationsPage() {
                 <div className="absolute inset-0 bg-gradient-to-r from-primary/10 to-primary-foreground/10 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
                 <div className="relative h-48 w-full overflow-hidden bg-muted">
                   <Image
-                    src="/cetificates/ISRO.png?height=200&width=400"
+                    src="/certificates/ISRO.png?height=200&width=400"
                     alt="ISRO Certification"
                     fill
                     className="object-cover transition-transform group-hover:scale-105"
@@ -209,7 +209,7 @@ export default function CertificationsPage() {
                 <div className="absolute inset-0 bg-gradient-to-r from-primary/10 to-primary-foreground/10 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
                 <div className="relative h-48 w-full overflow-hidden bg-muted">
                   <Image
-                    src="/certificates/progess.png?height=200&width=400"
+                    src="/certificates/progress.png?height=200&width=400"
                     alt="CompTIA Security+ Certification"
                     fill
                     className="object-cover transition-transform group-hover:scale-105"
@@ -225,7 +225,7 @@ export default function CertificationsPage() {
                     Ongoing the course.
                   </p>
                   <div className="mt-4 flex justify-between items-center">
-                    <span className="text-xs text-muted-foreground">Issued: Feb 2021</span>
+                    <span className="text-xs text-muted-foreground">Issued: Ongoing</span>
                     <Button variant="ghost" size="sm" className="group" asChild>
                       <Link href="https://drive.google.com/file/d/1F5EfCfsQ4SiOi3BExWFClnf6djXXnJFq/view?usp=drive_link">
                         View Certificate
