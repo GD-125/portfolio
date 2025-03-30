@@ -74,10 +74,10 @@ export default function ProjectsPage() {
                       <Github className="h-4 w-4" />
                       <span className="sr-only">GitHub</span>
                     </Button> */}
-                    <Button variant="ghost" size="icon" className="h-8 w-8">
+{/*                     <Button variant="ghost" size="icon" className="h-8 w-8">
                       <ExternalLink className="h-4 w-4" />
                       <span className="sr-only">View project</span>
-                    </Button>
+                    </Button> */}
                   </div>
                 </CardFooter>
               </Card>
@@ -117,12 +117,10 @@ export default function ProjectsPage() {
                       <Github className="h-4 w-4" />
                       <span className="sr-only">GitHub</span>
                     </Button> */}
-                    <Button variant="ghost" size="icon" className="h-8 w-8"
-                      onClick={() => window.open("https://https://network-monitoring-system-intern.vercel.app", "_blank")}
-                      >
+{/*                     <Button variant="ghost" size="icon" className="h-8 w-8">
                       <ExternalLink className="h-4 w-4" />
                       <span className="sr-only">View project</span>
-                    </Button>
+                    </Button> */}
                   </div>
                 </CardFooter>
               </Card>
@@ -162,12 +160,10 @@ export default function ProjectsPage() {
                       <Github className="h-4 w-4" />
                       <span className="sr-only">GitHub</span>
                     </Button> */}
-                    <Button variant="ghost" size="icon" className="h-8 w-8"
-                      onClick={() => window.open("https://edu-keylogger.vercel.app", "_blank")}
-                      >
+{/*                     <Button variant="ghost" size="icon" className="h-8 w-8">
                       <ExternalLink className="h-4 w-4" />
                       <span className="sr-only">View project</span>
-                    </Button>
+                    </Button> */}
                   </div>
                 </CardFooter>
               </Card>
