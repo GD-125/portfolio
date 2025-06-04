@@ -120,10 +120,9 @@ export default function Home() {
                   <div className="mb-4 flex h-12 w-12 items-center justify-center rounded-full bg-primary/10 group-hover:bg-primary/20 transition-colors">
                     <Database className="h-6 w-6 text-primary" />
                   </div>
-                  <h3 className="text-xl font-bold mb-2">Cloud Security</h3>
+                  <h3 className="text-xl font-bold mb-2">Software Development</h3>
                   <p className="text-muted-foreground flex-grow">
-                    Specialized security assessments for cloud environments, ensuring your data remains protected in
-                    AWS, Azure, or GCP.
+                    Ensuring secure, scalable, and high-performance applications across web, mobile, and enterprise platforms.
                   </p>
                   <Button variant="link" className="mt-4 p-0 group justify-start" asChild>
 {/*                     <Link href="/services" className="flex items-center">
