@@ -33,7 +33,7 @@ export function SiteHeader() {
             <div className="relative">
               <Shield className="h-8 w-8 text-primary" />
             </div>
-            <span className="text-lg font-bold">Portfolio</span>
+            <span className="text-lg font-bold">GURUCHANDHRAN M</span>
           </Link>
         </div>
 
